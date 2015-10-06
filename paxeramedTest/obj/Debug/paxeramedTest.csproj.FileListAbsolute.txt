@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\bin\Debug\paxeramedTest.exe.config
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\bin\Debug\paxeramedTest.exe
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\bin\Debug\paxeramedTest.pdb
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\obj\Debug\paxeramedTest.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\obj\Debug\paxeramedTest.Form1.resources
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\obj\Debug\paxeramedTest.Properties.Resources.resources
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\obj\Debug\paxeramedTest.csproj.GenerateResource.Cache
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\obj\Debug\paxeramedTest.exe
+\\mac\home\documents\visual studio 2012\Projects\paxeramedTest\paxeramedTest\obj\Debug\paxeramedTest.pdb
